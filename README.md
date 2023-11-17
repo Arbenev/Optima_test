@@ -15,7 +15,8 @@
 3. composer install
 4. php yii migrate
 5. связать веб-сервер (Apache, Njinx) с папкой проекта /web
-6. enjoy!
+6. Проследить, чтобы у сервера были права на запись в папки /web/assets и /web/protected/runtime.
+7. enjoy!
 ## Раздел Users
 Вся работа сделана в контроллере UserController и в разделе/пункте меню Users.
 
