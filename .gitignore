@@ -66,3 +66,7 @@ Session.vim
 
 /composer.lock
 /vendor
+/web/protected/config/database.php
+/web/protected/config/mail.php
+/web/protected/runtime/*
+/web/assets/*
